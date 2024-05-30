@@ -1,0 +1,1 @@
+Cambiar la implementación de la base de datos, usar mysqlworkbench y modificar el modelo de conexion. Descargar la base de datos de phpmyadmin "inventario" e importar en el mysqlworkbench.
